@@ -12,6 +12,8 @@
   "private": true,
   "dependencies": {
     "discord.js": "^11.4.2",
-    "eslint": "^5.15.3"
+    "eslint": "^5.15.3",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4"
   }
 }
